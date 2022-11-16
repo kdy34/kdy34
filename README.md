@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Deniz
+- 👀 I’m interested in new technologies and Artificial Intelligence.
+- 🌱 I’m currently learning data science.
