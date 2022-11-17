@@ -1,3 +1,4 @@
-- 👋 Hi, I’m Deniz
-- 👀 I’m interested in new technologies and Artificial Intelligence.
-- 🌱 I’m currently learning data science.
+-  Hi, I’m Deniz.
+- I am studying software engineering at Bahçeşehir University.
+-  I’m interested in new technologies and Artificial Intelligence.
+-  I’m currently learning data science.
